@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![OpenCLIP](https://img.shields.io/badge/OpenCLIP-ViT--B--32-green.svg)](https://github.com/mlfoundations/open_clip)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A deep learning-based fashion image retrieval system that combines **visual similarity** with **natural language modifications**. Upload a reference image and describe the changes you want (e.g., *"make it sleeveless and blue"*) to find matching fashion items.
 
